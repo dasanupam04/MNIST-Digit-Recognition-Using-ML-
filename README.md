@@ -18,7 +18,10 @@ It includes:
 A lightweight convolutional neural network trained on MNIST, achieving high accuracy on test data.
 
 🎨 Interactive Frontend (HTML + JS)
-    1. Upload any digit image
-    2. Or draw directly using a canvas
-    3. Automatic preprocessing (crop → scale → pad → smooth)
-    4. Displays prediction + probability bars
+   1. Upload any digit image
+   2. Or draw directly using a canvas
+   3. Automatic preprocessing (crop → scale → pad → smooth)
+   4. Displays prediction + probability bars
+
+
+   
