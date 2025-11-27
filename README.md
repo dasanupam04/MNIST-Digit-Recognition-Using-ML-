@@ -13,6 +13,8 @@ It includes:
 
 
 🚀 Features
+
+
 🧠 Trained PyTorch CNN Model
 
 A lightweight convolutional neural network trained on MNIST, achieving high accuracy on test data.
