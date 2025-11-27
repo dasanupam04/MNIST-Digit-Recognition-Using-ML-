@@ -79,6 +79,7 @@ To train (or retrain) the CNN:
 
 
 Model saves to:
+
     checkpoints/model.pt
 
 
@@ -86,8 +87,12 @@ Model saves to:
 🔍 Inference API
 
 Start the backend:
+
     python -m api.app
 
 
+Endpoints
+✔ Health check
+    GET /ping
 
    
