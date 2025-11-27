@@ -70,5 +70,13 @@ CORS enabled for browser usage.
     └── README.md                # <— You are here
 
 
+🧪 Model Training
+
+To train (or retrain) the CNN:
+
+   python -m src.train --epochs 5 --batch-size 128 --lr 0.01 --checkpoint-path checkpoints/model.pt
+
+   
+
 
    
