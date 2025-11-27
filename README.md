@@ -93,6 +93,7 @@ Start the backend:
 
 
 Endpoints
+
 ✔ Health check
 
 
@@ -100,6 +101,7 @@ Endpoints
 
 
 POST /predict
+
 ✔ Predict
 
     POST /predict
@@ -110,8 +112,19 @@ POST /predict
 Accepts:
 
 file (multipart/form-data)
+
 OR
+
 JSON base64 image
+
+Returns:
+
+    {
+  "prediction": 7,
+  "probs": [0.01, 0.02, ...]
+}
+
+
 
 
     
