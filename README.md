@@ -133,6 +133,13 @@ Returns:
 
 
 
+Collects:
+
+    1. correct/incorrect
+    2. true label
+    3. original prediction
+    4. uploaded/drawn image
+
 
 
 
