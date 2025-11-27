@@ -43,5 +43,33 @@ CORS enabled for browser usage.
    1. Correct → save as future positive example
    2. Incorrect → user provides correct label
   
-  
+
+📁 Project Structure
+
+   MNIST Digit Recognition/
+│
+├── api/
+│   └── app.py               # Flask API (predict + corrections)
+│
+├── src/
+│   ├── pytorch_cnn.py       # CNN model definition
+│   ├── train.py             # PyTorch training script
+│   ├── utils.py             # Utilities (seed, MNIST loader)
+│   └── numpy_nn.py          # Educational NumPy neural network
+│
+├── evaluation_output/
+│   ├── confusion_matrix.png
+│   ├── mis_*.png            # Sample misclassified images
+│
+├── corrections/             # User feedback data gets saved here
+│   └── meta.csv
+│
+├── checkpoints/
+│   └── model.pt             # Trained PyTorch model
+│
+├── frontend.html            # Interactive UI (upload + draw)
+└── README.md                # <— You are here
+
+
+
    
