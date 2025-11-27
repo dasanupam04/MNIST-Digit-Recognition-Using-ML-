@@ -36,6 +36,12 @@ CORS enabled for browser usage.
    1. Accuracy on MNIST
    2. Confusion matrix
    3. Saves misclassified samples
-      
 
+
+  👍 Human-in-the-loop Learning
+   Users can mark predictions as:
+   1. Correct → save as future positive example
+   2. Incorrect → user provides correct label
+  
+  
    
