@@ -119,16 +119,19 @@ JSON base64 image
 
 Returns:
 
-    {
-    "prediction": 7,
-    "probs": [0.01, 0.02, ...]
-    }
+     {
+     "prediction": 7,
+     "probs": [0.01, 0.02, ...]
+     }
 
 
 
 ✔ Save a Correction
 
     POST /corrections
+
+
+
 
 
 
