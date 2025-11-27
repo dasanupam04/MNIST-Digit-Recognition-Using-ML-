@@ -10,3 +10,9 @@ It includes:
    5. ✔ Preprocessing pipeline for hand-drawn digits
    6. ✔ Human-in-the-loop feedback (Correct / Incorrect)
    7. ✔ Data collection for future retraining
+
+
+🚀 Features
+🧠 Trained PyTorch CNN Model
+
+A lightweight convolutional neural network trained on MNIST, achieving high accuracy on test data.
