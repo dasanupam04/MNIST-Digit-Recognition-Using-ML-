@@ -143,9 +143,30 @@ Collects:
 
 
 
-   
+🎨 Frontend (User Interface)
+
+Serve the UI locally:
+
+    python -m http.server 8000
 
 
+
+Open:
+
+    http://127.0.0.1:8000/frontend.html
+
+
+
+
+Frontend features:
+
+    1. Preview uploaded images
+    2. Draw using mouse/touch
+    3. Visual prediction bars
+    4. Confidence score
+    5. Correction buttons:
+    . This is correct
+    . This is incorrect (enter true label)
 
     
 
