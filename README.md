@@ -98,4 +98,22 @@ Endpoints
 
     GET /ping
 
+
+POST /predict
+✔ Predict
+
+    POST /predict
+
+
+
+
+Accepts:
+
+file (multipart/form-data)
+OR
+JSON base64 image
+
+
+    
+
    
