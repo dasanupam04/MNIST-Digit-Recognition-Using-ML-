@@ -29,6 +29,13 @@ A lightweight convolutional neural network trained on MNIST, achieving high accu
    1. /predict → model inference
    2. /ping → health check
    3. /corrections → store user feedback (correct/incorrect)
+CORS enabled for browser usage.
 
+
+  📈 Evaluation Tools
+   1. Accuracy on MNIST
+   2. Confusion matrix
+   3. Saves misclassified samples
+      
 
    
