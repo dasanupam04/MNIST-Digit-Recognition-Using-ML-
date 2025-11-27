@@ -17,7 +17,7 @@ It includes:
 
 🧠 Trained PyTorch CNN Model
 
-A lightweight convolutional neural network trained on MNIST, achieving high accuracy on test data.
+    A lightweight convolutional neural network trained on MNIST, achieving high accuracy on test data.
 
 🎨 Interactive Frontend (HTML + JS)
    1. Upload any digit image
