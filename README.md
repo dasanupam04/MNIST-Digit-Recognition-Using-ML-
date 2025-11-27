@@ -74,7 +74,7 @@ CORS enabled for browser usage.
 
 To train (or retrain) the CNN:
 
-   python -m src.train --epochs 5 --batch-size 128 --lr 0.01 --checkpoint-path checkpoints/model.pt
+     python -m src.train --epochs 5 --batch-size 128 --lr 0.01 --checkpoint-path checkpoints/model.pt
 
    
 
