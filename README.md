@@ -170,4 +170,15 @@ Frontend features:
 
     
 
+Canvas Preprocessing
+
+
+The drawing is:
+
+     1. Cropped to bounding box
+     2. Scaled to 20×20
+     3. Centered in 28×28
+     4. Lightly blurred
+     5. Sent to the API
    
+
