@@ -180,5 +180,9 @@ The drawing is:
      3. Centered in 28×28
      4. Lightly blurred
      5. Sent to the API
-   
+
+This dramatically improves model accuracy on hand-drawn digits.
+
+
+
 
