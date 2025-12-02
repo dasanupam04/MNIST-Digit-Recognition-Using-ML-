@@ -190,5 +190,14 @@ This dramatically improves model accuracy on hand-drawn digits.
 
 This project is a fully functional end-to-end ML application featuring:
 
+    1. ML model
+    2. Preprocessing
+    3. Frontend UI
+    4. Backend API
+    5. Live predictions
+    6. Correction feedback
+    7. Data collection
+    8. Clean folder structure
+
 
 
