@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Model checkpoints
+checkpoints/
+*.pt
+
+# User feedback data
+corrections/
+corrections/*
+
+# Evaluation output
+evaluation_output/
+
+# Logs
+*.log
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
