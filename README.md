@@ -200,4 +200,4 @@ This project is a fully functional end-to-end ML application featuring:
     8. Clean folder structure
 
 
-
+  . 
