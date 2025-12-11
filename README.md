@@ -5,7 +5,7 @@ It includes:
 
    1. ✔ A PyTorch CNN for digit classification
    2. ✔ Evaluation & misclassification analysis
-   3. ✔ A Flask inference API
+   3. ✔ A Flask inference API 
    4. ✔ A fully interactive frontend (upload + drawing canvas)
    5. ✔ Preprocessing pipeline for hand-drawn digits
    6. ✔ Human-in-the-loop feedback (Correct / Incorrect)
