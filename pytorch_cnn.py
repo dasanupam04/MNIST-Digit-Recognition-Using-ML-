@@ -25,4 +25,3 @@ class SmallCNN(nn.Module):
 
 
 
-
