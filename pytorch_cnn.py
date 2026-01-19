@@ -23,3 +23,7 @@ class SmallCNN(nn.Module):
         x = self.fc2(x)
         return x
 
+
+
+
+
