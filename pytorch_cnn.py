@@ -24,6 +24,3 @@ class SmallCNN(nn.Module):
         return x
 
 
-
-
-
